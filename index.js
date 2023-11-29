@@ -4,11 +4,11 @@ const dustingCleanBtnEl = document.getElementById("dustingCleanBtn");
 
 
 regularCleanBtnEl.addEventListener('click',function(){
-    window.location.href = "cleaningProfile.html";
+    window.location.href = "index.html";
 });
 washroomCleanBtnEl.addEventListener('click',function(){
-    window.location.href = "cleaningProfile.html";
+    window.location.href = "index.html";
 });
 dustingCleanBtnEl.addEventListener('click',function(){
-    window.location.href = "cleaningProfile.html";
+    window.location.href = "index.html";
 });
